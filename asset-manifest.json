@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.41bc7bc3.css",
-    "main.js": "./static/js/main.a0c01fcd.js",
+    "main.css": "./static/css/main.170a7baa.css",
+    "main.js": "./static/js/main.d9c9fb95.js",
     "static/js/787.89eef174.chunk.js": "./static/js/787.89eef174.chunk.js",
     "static/media/STARCITIZEN_WHITE.png": "./static/media/STARCITIZEN_WHITE.34b1abb285503ff8c7b6.png",
     "static/media/STARCITIZEN_BLACK.png": "./static/media/STARCITIZEN_BLACK.4fe6fbddd5e5905a37fc.png",
@@ -209,12 +209,12 @@
     "static/media/tray-arrow-up.svg": "./static/media/tray-arrow-up.877d5a26c4f015c7c63f6d874264f1d9.svg",
     "static/media/flashlight.svg": "./static/media/flashlight.a9b88cc26cffaf9669a1.svg",
     "static/media/notification_accept.svg": "./static/media/notification_accept.ddce2e1e5ef60024f029.svg",
-    "main.41bc7bc3.css.map": "./static/css/main.41bc7bc3.css.map",
-    "main.a0c01fcd.js.map": "./static/js/main.a0c01fcd.js.map",
+    "main.170a7baa.css.map": "./static/css/main.170a7baa.css.map",
+    "main.d9c9fb95.js.map": "./static/js/main.d9c9fb95.js.map",
     "787.89eef174.chunk.js.map": "./static/js/787.89eef174.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41bc7bc3.css",
-    "static/js/main.a0c01fcd.js"
+    "static/css/main.170a7baa.css",
+    "static/js/main.d9c9fb95.js"
   ]
 }
