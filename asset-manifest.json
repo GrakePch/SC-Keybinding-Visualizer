@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.a1aa2aee.css",
-    "main.js": "./static/js/main.28bb32d6.js",
+    "main.css": "./static/css/main.f28c6189.css",
+    "main.js": "./static/js/main.84532d33.js",
     "static/js/787.89eef174.chunk.js": "./static/js/787.89eef174.chunk.js",
     "static/media/STARCITIZEN_WHITE.png": "./static/media/STARCITIZEN_WHITE.34b1abb285503ff8c7b6.png",
     "static/media/STARCITIZEN_BLACK.png": "./static/media/STARCITIZEN_BLACK.4fe6fbddd5e5905a37fc.png",
@@ -114,6 +114,7 @@
     "static/media/shield_raise_level_left.svg": "./static/media/shield_raise_level_left.7b97845e4ed0bcebffad.svg",
     "static/media/brake.svg": "./static/media/brake.da2250a71751e72e05e9.svg",
     "static/media/gimbal_auto.svg": "./static/media/gimbal_auto.cae7725596d1a210b463.svg",
+    "index.html": "./index.html",
     "static/media/pc_screen_focus_left.svg": "./static/media/pc_screen_focus_left.d5d1e17b893b3a2eda72.svg",
     "static/media/pc_screen_focus_down.svg": "./static/media/pc_screen_focus_down.364406b70f9aa6ca985d.svg",
     "static/media/pc_screen_focus_right.svg": "./static/media/pc_screen_focus_right.82ecdb848636c773b6e8.svg",
@@ -159,7 +160,6 @@
     "static/media/shield_raise_level_top.svg": "./static/media/shield_raise_level_top.17054e43e4d7074276f5.svg",
     "static/media/radar_ping_angle_inc.svg": "./static/media/radar_ping_angle_inc.69d32fd43dfec95ad148.svg",
     "static/media/target_pin_3_lock.svg": "./static/media/target_pin_3_lock.9cef623a0403cc75d0c9.svg",
-    "index.html": "./index.html",
     "static/media/target_pin_2_lock.svg": "./static/media/target_pin_2_lock.7e871188a4ceee7d4dfd.svg",
     "static/media/strafe_right.svg": "./static/media/strafe_right.656e8690549315042d49.svg",
     "static/media/strafe_backward.svg": "./static/media/strafe_backward.5aa24843828ab29a13bc.svg",
@@ -209,12 +209,12 @@
     "static/media/tray-arrow-up.svg": "./static/media/tray-arrow-up.877d5a26c4f015c7c63f6d874264f1d9.svg",
     "static/media/flashlight.svg": "./static/media/flashlight.a9b88cc26cffaf9669a1.svg",
     "static/media/notification_accept.svg": "./static/media/notification_accept.ddce2e1e5ef60024f029.svg",
-    "main.a1aa2aee.css.map": "./static/css/main.a1aa2aee.css.map",
-    "main.28bb32d6.js.map": "./static/js/main.28bb32d6.js.map",
+    "main.f28c6189.css.map": "./static/css/main.f28c6189.css.map",
+    "main.84532d33.js.map": "./static/js/main.84532d33.js.map",
     "787.89eef174.chunk.js.map": "./static/js/787.89eef174.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1aa2aee.css",
-    "static/js/main.28bb32d6.js"
+    "static/css/main.f28c6189.css",
+    "static/js/main.84532d33.js"
   ]
 }
