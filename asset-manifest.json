@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b7b5adb8.css",
-    "main.js": "./static/js/main.78db0930.js",
+    "main.css": "./static/css/main.2ef96436.css",
+    "main.js": "./static/js/main.83b0c900.js",
     "static/js/787.89eef174.chunk.js": "./static/js/787.89eef174.chunk.js",
     "static/media/STARCITIZEN_WHITE.png": "./static/media/STARCITIZEN_WHITE.34b1abb285503ff8c7b6.png",
     "static/media/STARCITIZEN_BLACK.png": "./static/media/STARCITIZEN_BLACK.4fe6fbddd5e5905a37fc.png",
@@ -48,8 +48,10 @@
     "static/media/dodge_left.svg": "./static/media/dodge_left.d115ee11fab5ba90a32a.svg",
     "static/media/cooler_rate_dec.svg": "./static/media/cooler_rate_dec.194f3dd1ab456f633430.svg",
     "static/media/cooler_rate_inc.svg": "./static/media/cooler_rate_inc.5a07d3eefacfaeeef359.svg",
+    "static/media/industrial_spacing_axis_toggle.svg": "./static/media/industrial_spacing_axis_toggle.0e236a9a89db813fdb60.svg",
     "static/media/bombing_hud_range_reset.svg": "./static/media/bombing_hud_range_reset.4ad0d60d480861adb410.svg",
     "static/media/industrial_tool_cycle.svg": "./static/media/industrial_tool_cycle.2eefbcf9e4b298d1a04f.svg",
+    "static/media/inner_thought_back.svg": "./static/media/inner_thought_back.db809cd524f5c981f577.svg",
     "static/media/aim_zeroing_inc.svg": "./static/media/aim_zeroing_inc.ff83903b8be29ccd0642.svg",
     "static/media/computers.svg": "./static/media/computers.5c7100bc2ce20fb91fc8.svg",
     "static/media/salvage_toggle_gimbal.svg": "./static/media/salvage_toggle_gimbal.c6e6e74063bcbae08e97.svg",
@@ -366,15 +368,14 @@
     "static/media/foip_pushToTalk.svg": "./static/media/foip_pushToTalk.e0a8bf8a7beabd404c4d.svg",
     "static/media/personal_weapon_melee.svg": "./static/media/personal_weapon_melee.d86d2a50693d75eac96e.svg",
     "static/media/scoreboard.svg": "./static/media/scoreboard.100b1c0410a58b56aa9c.svg",
-    "static/media/tray-arrow-up.svg": "./static/media/tray-arrow-up.877d5a26c4f015c7c63f6d874264f1d9.svg",
     "static/media/flashlight.svg": "./static/media/flashlight.a9b88cc26cffaf9669a1.svg",
     "static/media/notification_accept.svg": "./static/media/notification_accept.ddce2e1e5ef60024f029.svg",
-    "main.b7b5adb8.css.map": "./static/css/main.b7b5adb8.css.map",
-    "main.78db0930.js.map": "./static/js/main.78db0930.js.map",
+    "main.2ef96436.css.map": "./static/css/main.2ef96436.css.map",
+    "main.83b0c900.js.map": "./static/js/main.83b0c900.js.map",
     "787.89eef174.chunk.js.map": "./static/js/787.89eef174.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7b5adb8.css",
-    "static/js/main.78db0930.js"
+    "static/css/main.2ef96436.css",
+    "static/js/main.83b0c900.js"
   ]
 }
