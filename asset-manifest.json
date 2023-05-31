@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.2ef96436.css",
-    "main.js": "./static/js/main.83b0c900.js",
+    "main.css": "./static/css/main.888e6df5.css",
+    "main.js": "./static/js/main.50d966e0.js",
     "static/js/787.89eef174.chunk.js": "./static/js/787.89eef174.chunk.js",
+    "static/media/MadeByTheCommunity_White.png": "./static/media/MadeByTheCommunity_White.88a842e460ae0fd028e5.png",
+    "static/media/MadeByTheCommunity_Black.png": "./static/media/MadeByTheCommunity_Black.05bdae17cddc506604cb.png",
     "static/media/STARCITIZEN_WHITE.png": "./static/media/STARCITIZEN_WHITE.34b1abb285503ff8c7b6.png",
     "static/media/STARCITIZEN_BLACK.png": "./static/media/STARCITIZEN_BLACK.4fe6fbddd5e5905a37fc.png",
     "static/media/target_cycle_sub_targets_backward.svg": "./static/media/target_cycle_sub_targets_backward.7aad8e3c96c932862675.svg",
@@ -44,6 +46,7 @@
     "static/media/inner_thought_mining_mode.svg": "./static/media/inner_thought_mining_mode.e8ee942e8a895681e1a1.svg",
     "static/media/cm_decoy_panic.svg": "./static/media/cm_decoy_panic.31c6c5b43b3b1bb09216.svg",
     "static/media/eject.svg": "./static/media/eject.e447da2d6f2adde71346.svg",
+    "static/media/audio_channel_cycle.svg": "./static/media/audio_channel_cycle.f0f95e42f6edbe4d3ea4.svg",
     "static/media/dodge_right.svg": "./static/media/dodge_right.a30137e38709788b2c73.svg",
     "static/media/dodge_left.svg": "./static/media/dodge_left.d115ee11fab5ba90a32a.svg",
     "static/media/cooler_rate_dec.svg": "./static/media/cooler_rate_dec.194f3dd1ab456f633430.svg",
@@ -56,6 +59,7 @@
     "static/media/computers.svg": "./static/media/computers.5c7100bc2ce20fb91fc8.svg",
     "static/media/salvage_toggle_gimbal.svg": "./static/media/salvage_toggle_gimbal.c6e6e74063bcbae08e97.svg",
     "static/media/aim_zeroing_dec.svg": "./static/media/aim_zeroing_dec.9052665172099635dafb.svg",
+    "static/media/head_tracking_toggle.svg": "./static/media/head_tracking_toggle.f829945c8795934ae85c.svg",
     "static/media/bombing_hud_range_decrease.svg": "./static/media/bombing_hud_range_decrease.261e9cb3813b34e1b543.svg",
     "static/media/aim_stabilize.svg": "./static/media/aim_stabilize.e4cd6f232dab01e89b55.svg",
     "static/media/bombing_hud_range_increase.svg": "./static/media/bombing_hud_range_increase.8586c40792c9a57edcf6.svg",
@@ -333,6 +337,7 @@
     "static/media/power_reset.svg": "./static/media/power_reset.df85937833af150925f5.svg",
     "static/media/cursor_menu.svg": "./static/media/cursor_menu.89cb996ca7f9403ca9f4.svg",
     "static/media/jump_modules.svg": "./static/media/jump_modules.e69a2d00931d42cdecb0.svg",
+    "static/media/target-account.svg": "./static/media/target-account.05d57842a7881cff3743.svg",
     "static/media/starmap.svg": "./static/media/starmap.48076e6e64a169b37ef9.svg",
     "static/media/shield_generators.svg": "./static/media/shield_generators.fa4b6b6d7d426c401491.svg",
     "static/media/turrets.svg": "./static/media/turrets.879e3276b22d08b9d555.svg",
@@ -358,6 +363,7 @@
     "static/media/camera_saved_reset.svg": "./static/media/camera_saved_reset.5cbc151842af884317ca.svg",
     "static/media/walk.svg": "./static/media/walk.f82a2ee69f48ee03029a.svg",
     "static/media/horn.svg": "./static/media/horn.8f7dcfd56496990cf9a8.svg",
+    "static/media/camera-front.svg": "./static/media/camera-front.8383ab7487526b90814c.svg",
     "static/media/power_plants.svg": "./static/media/power_plants.e5a5ba6b4e790d45d389.svg",
     "static/media/eye.svg": "./static/media/eye.b8b1612f3981992f76fa73a38b6b336d.svg",
     "static/media/mobiGlas_contact.svg": "./static/media/mobiGlas_contact.4df68dc9078fff766bf0.svg",
@@ -370,12 +376,12 @@
     "static/media/scoreboard.svg": "./static/media/scoreboard.100b1c0410a58b56aa9c.svg",
     "static/media/flashlight.svg": "./static/media/flashlight.a9b88cc26cffaf9669a1.svg",
     "static/media/notification_accept.svg": "./static/media/notification_accept.ddce2e1e5ef60024f029.svg",
-    "main.2ef96436.css.map": "./static/css/main.2ef96436.css.map",
-    "main.83b0c900.js.map": "./static/js/main.83b0c900.js.map",
+    "main.888e6df5.css.map": "./static/css/main.888e6df5.css.map",
+    "main.50d966e0.js.map": "./static/js/main.50d966e0.js.map",
     "787.89eef174.chunk.js.map": "./static/js/787.89eef174.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ef96436.css",
-    "static/js/main.83b0c900.js"
+    "static/css/main.888e6df5.css",
+    "static/js/main.50d966e0.js"
   ]
 }
